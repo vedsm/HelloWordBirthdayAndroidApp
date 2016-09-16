@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_cba8ac462d92c852a86446d7a2e300accaa55d71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="123f2e3f6cba4c1b29158635d36bf39a91b92c4c">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_45e9615164f3f568d6dd07a49ef9578b26ad9e17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_cd78320d3eb9a45bf99c07c6e2bdeb4ba17760a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_9af6cad508f5ba9de79cf740ef84798de62b1c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_f66fcb2ee4898e5f1a83b5e5c77ff31d2706e860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_9da12d6055b011ee6e9c9dd963c70a8e49c7576a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_9ed4ad3e74679ea3779ecb777cbe9b0ab13cc200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha6/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="683e0c40e56227acb71bcd29fee25fe417ae734e">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-alpha6_11e80fec5ed5e23b87f6222eac96ffb143a24c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha6/constraint-layout-solver-1.0.0-alpha6.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="539cfaee6c35087cdebad7e3a3bc0f52d1261d93">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha6_134e803682b9a4e4575c2b842f844a4c6f456b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6eb87c00415fd8384d653ea1f8a31f56fdfc8871">
+        <dex dex="/home/ved/ubuntu_backup/AndroidStudioProjects/HappyBirthday/app/build/intermediates/pre-dexed/debug/instant-run_ee0d69cbb604bad04ac1413bcf9ce460fe85a6b3.jar" />
+    </item>
+
+</items>
